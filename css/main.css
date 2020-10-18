@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-image: url("background.gif");
+    background-repeat: none;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -55,4 +56,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+img{
+    width : 550px;
 }
