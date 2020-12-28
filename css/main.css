@@ -75,6 +75,10 @@ img[alt=med]{
     width: 350px;
 }
 
+img[alt=large]{
+    width: 1000px;
+    height: 100px;
+}
 .summary{
     font-size: 1.5em;
     color : #ffffff;
@@ -84,4 +88,14 @@ div.post{
    
     margin-right: 150px;
     margin-left: 80px;
+    width: 1000px;
+}
+
+.navHeader{
+    font-size: larger;    
+}
+
+.index img{
+    height: 300px;
+    width: 300px;
 }
