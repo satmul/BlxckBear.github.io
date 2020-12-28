@@ -118,7 +118,7 @@ So i found a similar challenge "Warpspeed". If .jpg is resized it will be "shred
 
 Lets change the image size with hex editor.
 
-![challDesc](/image/HacklabsFinale/shreddedSize.jpg)
+![challDesc](/image/HacklabsFinale/shreddedSize.JPG)
 
 After bruteforcing the image size, i found the flag on the bottom of the image !
 
