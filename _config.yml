@@ -6,3 +6,5 @@ kramdown:
   input: GFM
   syntax_highliter: rouge
 
+
+theme: jekyll-theme-cayman
